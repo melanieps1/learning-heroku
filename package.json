@@ -1,0 +1,22 @@
+{
+  "name": "learning-heroku",
+  "version": "1.0.0",
+  "description": "## Why This Repo Exists",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melanieps1/learning-heroku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melanieps1/learning-heroku/issues"
+  },
+  "homepage": "https://github.com/melanieps1/learning-heroku#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
